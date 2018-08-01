@@ -1,4 +1,4 @@
-package com.studyinghome.strategypattern;
+package com.studyinghome.strategy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

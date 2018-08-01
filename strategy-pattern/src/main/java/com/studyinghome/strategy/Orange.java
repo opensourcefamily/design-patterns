@@ -1,4 +1,4 @@
-package com.studyinghome.strategypattern;
+package com.studyinghome.strategy;
 
 /**
  * ${橙子树}
