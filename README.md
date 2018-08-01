@@ -1,8 +1,8 @@
 # java-design-patterns
 ## java设计模式
 
-1. [strategy-pattern](http://) (策略模式)
-2. [proxy-pattern](http://) (代理模式)
+1. [strategy-pattern](https://github.com/opensourcefamily/design-patterns/tree/master/strategy-pattern) (策略模式)
+2. [proxy-pattern](https://github.com/opensourcefamily/design-patterns/tree/master/proxy-pattern) (代理模式)
 <!--
 3. [singleton-pattern]() (单例模式)
 4. [multition-pattern]() (多例模式)
