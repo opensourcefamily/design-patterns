@@ -5,8 +5,8 @@
 
 1. [strategy-pattern](https://github.com/opensourcefamily/design-patterns/tree/master/strategy-pattern) (策略模式)
 2. [proxy-pattern](https://github.com/opensourcefamily/design-patterns/tree/master/proxy-pattern) (代理模式)
+3. [singleton-pattern](https://github.com/opensourcefamily/design-patterns/tree/master/singleton-pattern) (单例模式)
 <!--
-3. [singleton-pattern]() (单例模式)
 4. [multition-pattern]() (多例模式)
 5. [factory-method-pattern]() (工厂方法模式)
 6. [abstract-factory-pattern]() (抽象工厂模式)
