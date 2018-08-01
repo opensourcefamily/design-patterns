@@ -1,4 +1,4 @@
-package com.studyinghome.proxypattern;
+package com.studyinghome.proxy;
 
 /**
  * @author leslie
