@@ -1,6 +1,8 @@
 # java-design-patterns
 ## java设计模式
 
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/opensourcefamily/design-patterns/blob/master/LICENSE)
+
 1. [strategy-pattern](https://github.com/opensourcefamily/design-patterns/tree/master/strategy-pattern) (策略模式)
 2. [proxy-pattern](https://github.com/opensourcefamily/design-patterns/tree/master/proxy-pattern) (代理模式)
 <!--
