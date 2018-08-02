@@ -8,5 +8,6 @@ public class SingletonPatternApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SingletonPatternApplication.class, args);
+        People.buy();
     }
 }

@@ -7,7 +7,7 @@ package com.studyinghome.singleton;
 
 public class People {
 
-    public static void main(String[] args) {
+    public static void buy() {
         //前天
         int ticket1 = TicketMaker.getInstance();
         System.out.println("剩余票数为:" + ticket1);
