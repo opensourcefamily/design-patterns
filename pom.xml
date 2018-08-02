@@ -28,6 +28,7 @@
         <module>strategy-pattern</module>
         <module>proxy-pattern</module>
         <module>singleton-pattern</module>
+        <module>multition-pattern</module>
     </modules>
 
     <dependencies>

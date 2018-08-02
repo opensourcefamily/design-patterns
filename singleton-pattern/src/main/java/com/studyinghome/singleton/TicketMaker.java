@@ -7,10 +7,10 @@ package com.studyinghome.singleton;
  * @create 2018-08-01 17:44
  */
 
-public class Father {
+public class TicketMaker {
     private static int ticket = 1000;
 
-    private Father() {
+    private TicketMaker() {
     }
 
     public synchronized static int getInstance() {
