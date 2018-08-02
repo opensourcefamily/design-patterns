@@ -8,14 +8,12 @@ package com.studyinghome.singleton;
  */
 
 public class Father {
-    private static Father father = null;
+    private static final Father father = new Father();
 
-    private Father() {}
+    private Father() {
+    }
 
-    public static Father getInstance() {
-        if (father == null) {
-            father = new Father();
-        }
+    public synchronized static Father getInstance() {
         return father;
     }
 
