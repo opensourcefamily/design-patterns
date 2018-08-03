@@ -9,8 +9,8 @@
 4. [multition-pattern](https://github.com/opensourcefamily/design-patterns/tree/master/multition-pattern) (多例模式)
 5. [factory-method-pattern](https://github.com/opensourcefamily/design-patterns/tree/master/factory-method-pattern) (工厂方法模式)
 6. [abstract-factory-pattern](https://github.com/opensourcefamily/design-patterns/tree/master/abstract-factory-pattern) (抽象工厂模式)
+7. [facade-pattern](https://github.com/opensourcefamily/design-patterns/tree/master/facade-pattern) (外观模式)
 <!--
-7. [facade-pattern]() (门面模式)
 8. [adapter-pattern]() (适配器模式)
 9. [template-method-pattern]() (模板方法模式)
 10. [builder-pattern]() (建造者模式)
