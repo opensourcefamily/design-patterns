@@ -6,7 +6,7 @@
     <groupId>com.studyinghome</groupId>
     <artifactId>design-patterns</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>design-patterns</name>
     <description>Demo project for Spring Boot</description>
@@ -31,6 +31,7 @@
         <module>multition-pattern</module>
         <module>factory-method-pattern</module>
         <module>abstract-factory-pattern</module>
+        <module>facade-pattern</module>
     </modules>
 
     <dependencies>
